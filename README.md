@@ -1,8 +1,5 @@
 <p align="center"><img width="400" height="400" src="./assets/pepe.png" /></p>
 
-<br />
-
-I'm a self-taught passionate fullstack developer from Paris 🇫🇷, based in Bangkok 🇹🇭
 #### Tech stack
 
 <code><img height="40" alt="python" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
