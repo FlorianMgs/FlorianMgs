@@ -1,4 +1,4 @@
-<p align="center"><img width="80%" src="./assets/pepe.png" /></p>
+<p align="center"><img width="250" height="250" src="./assets/pepe.png" /></p>
 
 <br />
 
@@ -36,6 +36,9 @@ I'm a self-taught passionate fullstack developer from Paris 🇫🇷, based in B
   <img align="center" src="https://github-readme-stats-eta-flax-90.vercel.app/api/pin/?username=FlorianMgs&repo=ask-llm&theme=transparent" />
 </a>
 
-<p align="center">
+
+<div align="center">
+
 [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=31ixp2qkqymyu7ij35cbe47hftdm&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false&bar_color=53b14f&bar_color_cover=true)](https://spotify-github-profile.vercel.app/api/view?uid=31ixp2qkqymyu7ij35cbe47hftdm&redirect=true)
-</p>
+
+</div>
