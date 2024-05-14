@@ -28,6 +28,7 @@ I'm a self-taught passionate fullstack developer from Paris 🇫🇷, based in B
 <code><img height="40" alt="postgresql" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/postgresql/postgresql.png"></code>
 <code><img height="40" alt="shopify" src="https://cdn3.iconfinder.com/data/icons/social-media-2068/64/_shopping-512.png"></code>
 <code><img height="40" alt="wordpress" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/WordPress_blue_logo.svg/1024px-WordPress_blue_logo.svg.png"></code>
+<code><img height="40" alt="odoo" src="https://w7.pngwing.com/pngs/862/702/png-transparent-code-development-logo-odoo-logos-icon.png"></code>
 
 |<img align="center" src="https://github-readme-stats-eta-flax-90.vercel.app/api?username=FlorianMgs&show_icons=true&include_all_commits=true&theme=transparent&hide_border=true" /> | <img align="center" src="https://github-readme-stats-eta-flax-90.vercel.app/api/top-langs/?username=FlorianMgs&layout=compact&theme=transparent&hide_border=true" /> |
 | ------------- | ------------- |
