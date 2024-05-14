@@ -14,12 +14,6 @@ I'm a self-taught passionate fullstack developer from Paris 🇫🇷, based in B
 
 - 🎶 Former sound engineer & music producer. Checkout my [Soundcloud](https://soundcloud.com/madgik/tracks)!
 
-<div align="center">
-
-[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=31ixp2qkqymyu7ij35cbe47hftdm&cover_image=true&theme=novatorem&show_offline=false&background_color=121212&interchange=false&bar_color=53b14f&bar_color_cover=true)](https://spotify-github-profile.vercel.app/api/view?uid=31ixp2qkqymyu7ij35cbe47hftdm&redirect=true)
-
-</div>
-
 <code><img height="20" alt="python" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
 <code><img height="20" alt="django" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/django/django.png"></code>
 <code><img height="20" alt="javascript" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
@@ -41,3 +35,12 @@ I'm a self-taught passionate fullstack developer from Paris 🇫🇷, based in B
 <a href="https://github.com/FlorianMgs/ask-llm">
   <img align="center" src="https://github-readme-stats-eta-flax-90.vercel.app/api/pin/?username=FlorianMgs&repo=ask-llm&theme=transparent" />
 </a>
+
+<br />
+<br />
+
+<div align="center">
+
+[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=31ixp2qkqymyu7ij35cbe47hftdm&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false&bar_color=53b14f&bar_color_cover=true)](https://spotify-github-profile.vercel.app/api/view?uid=31ixp2qkqymyu7ij35cbe47hftdm&redirect=true)
+
+</div>
