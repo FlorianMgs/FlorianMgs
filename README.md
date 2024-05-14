@@ -1,4 +1,4 @@
-<p align="center"><img width="250" height="250" src="./assets/pepe.png" /></p>
+<p align="center"><img width="400" height="400" src="./assets/pepe.png" /></p>
 
 <br />
 
@@ -36,6 +36,7 @@ I'm a self-taught passionate fullstack developer from Paris 🇫🇷, based in B
   <img align="center" src="https://github-readme-stats-eta-flax-90.vercel.app/api/pin/?username=FlorianMgs&repo=ask-llm&theme=transparent" />
 </a>
 
+<br />
 
 <div align="center">
 
