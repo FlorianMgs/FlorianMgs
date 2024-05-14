@@ -24,6 +24,7 @@ I'm a self-taught passionate fullstack developer from Paris 🇫🇷, based in B
 <code><img height="40" alt="typescript" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png"></code>
 <code><img height="40" alt="react" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
 <code><img height="40" alt="nextjs" src="https://static-00.iconduck.com/assets.00/nextjs-icon-512x512-y563b8iq.png"></code>
+<code><img height="40" alt="tailwind" src="https://w7.pngwing.com/pngs/293/485/png-transparent-tailwind-css-hd-logo.png"></code>
 <code><img height="40" alt="docker" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/docker/docker.png"></code>
 <code><img height="40" alt="redis" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/redis/redis.png"></code>
 <code><img height="40" alt="postgresql" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/postgresql/postgresql.png"></code>
