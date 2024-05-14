@@ -1,6 +1,6 @@
 <p align="center"><img width="400" height="400" src="./assets/pepe.png" /></p>
 
-<div align="center">
+<p align="center">
   <code><img height="40" alt="python" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
   <code><img height="40" alt="django" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/django/django.png"></code>
   <code><img height="40" alt="langchain" src="https://framerusercontent.com/images/fiyH75YYr8PgRjfbVualMdYW8.png"></code>
@@ -13,7 +13,7 @@
   <code><img height="40" alt="shopify" src="https://cdn3.iconfinder.com/data/icons/social-media-2068/64/_shopping-512.png"></code>
   <code><img height="40" alt="wordpress" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/WordPress_blue_logo.svg/1024px-WordPress_blue_logo.svg.png"></code>
   <code><img height="40" alt="odoo" src="https://w7.pngwing.com/pngs/862/702/png-transparent-code-development-logo-odoo-logos-icon.png"></code>
-</div>
+</p>
 
 <br />
 <br />
