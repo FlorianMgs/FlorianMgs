@@ -3,18 +3,7 @@
 <br />
 
 I'm a self-taught passionate fullstack developer from Paris 🇫🇷, based in Bangkok 🇹🇭
-
-**About me**
-
-- 💼 Software Developer at [Newlogic](https://newlogic.com/)
-
-- 📈 Cryptocurrency enthusiast
-
-- ⛏️ Building innovative apps in AI / Web3 / E-commerce
-
-- 🎶 Former sound engineer & music producer. Checkout my [Soundcloud](https://soundcloud.com/madgik/tracks)!
-
-#### My favorite technologies
+#### Tech stack
 
 <code><img height="40" alt="python" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
 <code><img height="40" alt="django" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/django/django.png"></code>
@@ -34,21 +23,3 @@ I'm a self-taught passionate fullstack developer from Paris 🇫🇷, based in B
 
 |<img align="center" src="https://github-readme-stats-eta-flax-90.vercel.app/api?username=FlorianMgs&show_icons=true&include_all_commits=true&theme=transparent&hide_border=true" /> | <img align="center" src="https://github-readme-stats-eta-flax-90.vercel.app/api/top-langs/?username=FlorianMgs&layout=compact&theme=transparent&hide_border=true" /> |
 | ------------- | ------------- |
-
-#### Top Repositories
-
-<a href="https://github.com/FlorianMgs/gpt4-image-api">
-  <img align="center" src="https://github-readme-stats-eta-flax-90.vercel.app/api/pin/?username=FlorianMgs&repo=gpt4-image-api&theme=transparent" />
-</a>
-<a href="https://github.com/FlorianMgs/ask-llm">
-  <img align="center" src="https://github-readme-stats-eta-flax-90.vercel.app/api/pin/?username=FlorianMgs&repo=ask-llm&theme=transparent" />
-</a>
-
-<br />
-<br />
-
-<div align="center">
-
-[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=31ixp2qkqymyu7ij35cbe47hftdm&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false&bar_color=53b14f&bar_color_cover=true)](https://spotify-github-profile.vercel.app/api/view?uid=31ixp2qkqymyu7ij35cbe47hftdm&redirect=true)
-
-</div>
