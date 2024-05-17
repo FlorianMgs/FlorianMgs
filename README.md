@@ -15,3 +15,8 @@
   <code><img height="30" alt="odoo" src="https://w7.pngwing.com/pngs/862/702/png-transparent-code-development-logo-odoo-logos-icon.png"></code>
 </p>
 
+<br />
+<br />
+
+|<img align="center" src="https://github-readme-stats-eta-flax-90.vercel.app/api?username=FlorianMgs&show_icons=true&include_all_commits=true&theme=transparent&hide_border=true" /> | <img align="center" src="https://github-readme-stats-eta-flax-90.vercel.app/api/top-langs/?username=FlorianMgs&layout=compact&theme=transparent&hide_border=true" /> |
+| ------------- | ------------- |
