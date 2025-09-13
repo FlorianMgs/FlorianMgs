@@ -17,17 +17,5 @@
 
 <br />
 
-<picture>
-  <source
-    srcset="https://github-readme-stats-8u38y72uo-florianmgs-projects.vercel.app/api?username=FlorianMgs&show_icons=true&include_all_commits=true&theme=transparent&hide_border=true&theme=dark"
-    media="(prefers-color-scheme: dark)"
-  />
-  <source
-    srcset="https://github-readme-stats-8u38y72uo-florianmgs-projects.vercel.app/api?username=FlorianMgs&show_icons=true&include_all_commits=true&theme=transparent&hide_border=true"
-    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
-  />
-  <img src="https://github-readme-stats-8u38y72uo-florianmgs-projects.vercel.app/api?username=FlorianMgs&show_icons=true&include_all_commits=true&theme=transparent&hide_border=true" />
-</picture>
-
-|<img align="center" src="https://github-readme-stats-8u38y72uo-florianmgs-projects.vercel.app/api?username=FlorianMgs&show_icons=true&include_all_commits=true&theme=transparent&hide_border=true" /> | <img align="center" src="https://github-readme-stats-8u38y72uo-florianmgs-projects.vercel.app/api/top-langs/?username=FlorianMgs&layout=compact&theme=transparent&hide_border=true" /> |
+|<img align="center" src="https://github-readme-stats-rose-nine-49.vercel.app/api?username=FlorianMgs&show_icons=true&include_all_commits=true&theme=transparent&hide_border=true" /> | <img align="center" src="https://github-readme-stats-rose-nine-49.vercel.app/api/top-langs/?username=FlorianMgs&layout=compact&theme=transparent&hide_border=true" /> |
 | ------------- | ------------- |
