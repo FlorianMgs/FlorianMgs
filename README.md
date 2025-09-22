@@ -21,15 +21,3 @@
 
 |<img align="center" src="https://github-readme-stats-rose-nine-49.vercel.app/api?username=FlorianMgs&show_icons=true&include_all_commits=true&theme=transparent&hide_border=true" /> | <img align="center" src="https://github-readme-stats-rose-nine-49.vercel.app/api/top-langs/?username=FlorianMgs&layout=compact&theme=transparent&hide_border=true" /> |
 | ------------- | ------------- |
-
-
-<!-- Streak (PNG fallback; centered, full width) -->
-<p align="center">
-  <img
-    src="https://github-readme-streak-stats-two-coral.vercel.app/?user=FlorianMgs&theme=transparent&hide_border=true&type=png"
-    alt="GitHub Streak — FlorianMgs"
-    width="100%"
-  />
-</p>
-
-
