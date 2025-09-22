@@ -23,12 +23,13 @@
 | ------------- | ------------- |
 
 
-<!-- Streak (centered, full width) -->
+<!-- Streak (PNG fallback; centered, full width) -->
 <p align="center">
   <img
-    src="https://github-readme-streak-stats-two-coral.vercel.app/?user=FlorianMgs&theme=transparent&hide_border=true&type=svg"
+    src="https://github-readme-streak-stats-two-coral.vercel.app/?user=FlorianMgs&theme=transparent&hide_border=true&type=png"
     alt="GitHub Streak — FlorianMgs"
     width="100%"
   />
 </p>
+
 
