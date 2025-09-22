@@ -21,3 +21,14 @@
 
 |<img align="center" src="https://github-readme-stats-rose-nine-49.vercel.app/api?username=FlorianMgs&show_icons=true&include_all_commits=true&theme=transparent&hide_border=true" /> | <img align="center" src="https://github-readme-stats-rose-nine-49.vercel.app/api/top-langs/?username=FlorianMgs&layout=compact&theme=transparent&hide_border=true" /> |
 | ------------- | ------------- |
+
+<!-- GitHub Readme Streak Stats (self-hosted) -->
+<div align="center">
+  <a href="https://github-readme-streak-stats-two-coral.vercel.app/demo/?user=FlorianMgs&theme=transparent">
+    <img
+      src="https://github-readme-streak-stats-two-coral.vercel.app/?user=FlorianMgs&theme=transparent&hide_border=true&type=svg"
+      alt="GitHub Streak — FlorianMgs"
+      width="100%"
+    />
+  </a>
+</div>
